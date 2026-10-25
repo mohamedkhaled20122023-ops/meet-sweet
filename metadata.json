@@ -1,0 +1,8 @@
+{
+  "name": "Meat & Sweet - تطبيق الطلب التجريبي",
+  "description": "منصة طلب طعام تجريبية تفاعلية لمطعم Meat & Sweet مع نظام سلة وشراء فوري، وتقييم خرائط جوجل، وحقوق ملكية حصرية للمصمم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
